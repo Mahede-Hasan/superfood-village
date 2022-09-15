@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+.top-banner {
+    height: 100vh;
+    max-height: 900px;
+    background: url('../../../images/top-banner.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 600px;
+    overflow: hidden;
+    background-color: rgba(73, 72, 72, 0.671);
+    background-blend-mode: soft-light;
+}
+
+.banner-text h1{
+    margin-top: 200px;
+    font-family: 'Girassol', cursive;
+    font-size: 60px;
+    color: rgb(235, 234, 234);
+}
+
+.banner-text h1 span{
+    color: rgb(249, 186, 39);
+}
+
+.banner-text h5{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(235, 234, 234);
+}
+
+
+.search-btn{
+    color: white !important;
+    font-size: 20px !important;
+    background-color: rgb(101, 100, 100) !important;
+}
+
+
